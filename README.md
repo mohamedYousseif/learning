@@ -1,3 +1,12 @@
 # this is the header for first repo
-** use this command to install gnu compiler : **
+** use this coomand **
 `sudo xbps-install -S g++`
+
+```c
+#include <iostream>
+
+int main()
+{
+  std::cout << " ❤️ \n";
+}
+```
