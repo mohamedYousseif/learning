@@ -1,5 +1,5 @@
 # this is the header for first repo
-** use this coomand **
+**use this coomand :**
 `sudo xbps-install -S g++`
 
 ```c++
