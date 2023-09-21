@@ -2,7 +2,7 @@
 **use this coomand :**
 `sudo xbps-install -S g++`
 
-```c++
+```
 #include <iostream>
 
 int main()
